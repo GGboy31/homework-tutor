@@ -1,0 +1,6 @@
+interface:
+  display_name: "课程作业辅导"
+  short_description: "依据课件和教材解答作业、核对参数来源，分步骤讲解并规范输出公式"
+  default_prompt: "使用 $homework-tutor，依据当前课件和教材帮我完成并理解这次作业，注明解题和参数依据。"
+policy:
+  allow_implicit_invocation: true
