@@ -1,18 +1,18 @@
 {
   "name": "homework-tutor",
-  "version": "0.1.0",
-  "description": "依据课件与教材辅导作业，标注解题和参数来源，支持追问与 Markdown 输出",
+  "version": "0.1.0+codex.20260923093329",
+  "description": "\u4f9d\u636e\u8bfe\u4ef6\u4e0e\u6559\u6750\u8f85\u5bfc\u4f5c\u4e1a\uff0c\u6807\u6ce8\u89e3\u9898\u548c\u53c2\u6570\u6765\u6e90\uff0c\u652f\u6301\u8ffd\u95ee\u4e0e Markdown \u8f93\u51fa",
   "author": {
     "name": "GGboy31"
   },
   "skills": "./skills/",
   "interface": {
-    "displayName": "课程作业辅导",
-    "shortDescription": "按课件与教材解题，解释思路并标注来源",
-    "longDescription": "依据课件与教材辅导作业，标注解题和参数来源，支持追问与 Markdown 输出",
+    "displayName": "\u8bfe\u7a0b\u4f5c\u4e1a\u8f85\u5bfc",
+    "shortDescription": "\u6309\u8bfe\u4ef6\u4e0e\u6559\u6750\u89e3\u9898\uff0c\u89e3\u91ca\u601d\u8def\u5e76\u6807\u6ce8\u6765\u6e90",
+    "longDescription": "\u4f9d\u636e\u8bfe\u4ef6\u4e0e\u6559\u6750\u8f85\u5bfc\u4f5c\u4e1a\uff0c\u6807\u6ce8\u89e3\u9898\u548c\u53c2\u6570\u6765\u6e90\uff0c\u652f\u6301\u8ffd\u95ee\u4e0e Markdown \u8f93\u51fa",
     "developerName": "GGboy31",
     "category": "Productivity",
     "capabilities": [],
-    "defaultPrompt": "使用 homework-tutor 帮我理解并完成当前作业。"
+    "defaultPrompt": "\u4f7f\u7528 homework-tutor \u5e2e\u6211\u7406\u89e3\u5e76\u5b8c\u6210\u5f53\u524d\u4f5c\u4e1a\u3002"
   }
 }
